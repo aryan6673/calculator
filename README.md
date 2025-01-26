@@ -2,7 +2,6 @@
 
 A minimalistic, aesthetic calculator built with Python and Tkinter. Designed with modern UI principles and pastel colors that are easy on the eyes. ✨
 
-![Calculator Preview](preview.png) <!-- You can add a screenshot of your calculator here -->
 
 ## 🌟 Features
 
