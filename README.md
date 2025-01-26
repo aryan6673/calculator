@@ -1,4 +1,4 @@
-# ⚡ Gen-Z Calculator
+# ⚡ Dino Calculator
 
 A minimalistic, aesthetic calculator built with Python and Tkinter. Designed with modern UI principles and pastel colors that are easy on the eyes. ✨
 
@@ -33,7 +33,7 @@ A minimalistic, aesthetic calculator built with Python and Tkinter. Designed wit
 python -m pip install ttkthemes
 Clone this repository:
 bash
-git clone https://github.com/aryan6673/genz-calculator.git
+git clone https://github.com/aryan6673/calculator.git
 cd genz-calculator
 Run the calculator:
 bash
