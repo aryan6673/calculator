@@ -37,7 +37,9 @@ cd genz-calculator
 Run the calculator:
 bash
 python calculator.py
-🎨 Color Scheme
+```
+
+## 🎨 Color Scheme
 The calculator uses a carefully chosen pastel color palette:
 
 Background: #f0f0f0 (Light gray)
@@ -50,29 +52,29 @@ Text: #2b2b2b (Dark gray)
 Python 3.x
 ttkthemes library
 Tkinter (comes with Python)
-⚡ Quick Start
+## ⚡ Quick Start
 Python
 from calculator import ModernCalculator
 
 calc = ModernCalculator()
 calc.run()
-🔄 Updates
+## 🔄 Updates
 Last updated: 2025-01-26
 Created by: @aryan6673
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to:
 
 Fork this repository
 Create a new branch: git checkout -b feature-name
 Make your changes
 Submit a pull request
-📝 License
+## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-💫 Acknowledgments
+## 💫 Acknowledgments
 Inspired by modern UI/UX design principles
 Built with love for the Gen-Z aesthetic
 Special thanks to the ttkthemes project
-🌈 Made with Python & Pastel Colors
+## 🌈 Made with Python & Pastel Colors
 Created by @aryan6673 | ⭐ Star if you like it!
