@@ -6,6 +6,3 @@
 - Basic calculator functionality
 - Gen-Z aesthetic UI
 - Real-time clock display
-
-
-check check check
