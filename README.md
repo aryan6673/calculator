@@ -38,6 +38,9 @@ Run the calculator:
 bash
 python calculator.py
 ```
+## 📸 Screenshot
+
+![App Screenshot](./Screenshot%202025-01-26%20142246.png)
 
 ## 🎨 Color Scheme
 The calculator uses a carefully chosen pastel color palette:
